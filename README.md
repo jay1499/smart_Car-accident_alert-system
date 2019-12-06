@@ -3,14 +3,14 @@ Mainly useful in highway roads and deserted regions where human density is low.
 Also data of accident gps co-ordinates are fed to cloud instantly if the module is connected to the internet.We have used Thingspeak as cloud.
 Overtime we can use this data to predict accident prone areas and signal commuters appropriately with safety precautions.
 
-Hardware:
-Arduino Uno
-Accelerometer ADLX335
-GSM MODULE 900A
-ESP8266-01 WIFI MODULE
-NEO-6M GPS MODULE
-RESISTORS, WIRES AND BREADBOARDS
-
-Software:
-ARDUINO IDE
+#Hardware:<br>
+Arduino Uno <br>
+Accelerometer ADLX335<br>
+GSM MODULE 900A<br>
+ESP8266-01 WIFI MODULE<br>
+NEO-6M GPS MODULE<br>
+RESISTORS, WIRES AND BREADBOARDS<br>
+<br>
+#Software:<br>
+ARDUINO IDE<br>
 THINGSPEAK CLOUD
